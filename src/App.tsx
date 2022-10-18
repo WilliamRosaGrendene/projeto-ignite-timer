@@ -15,7 +15,7 @@ export function App() {
     <>
     <ThemeProvider theme={defaultTheme}>
         <BrowserRouter>
-          <h1>Hello World</h1>
+          
            <Router/>
 
           <GlobalStyle/>
